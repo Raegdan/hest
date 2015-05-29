@@ -1,0 +1,2 @@
+# hest
+hest a.k.a. Herzen Street codec is a tool which encodes / decodes binary data to / from a sequence of words from a prebuilt dictionary, providing the ability to make any binary stream look like a plaintext chat and fool entropy analysis based filtering. Yes, traffic overhead. Yes, we Russians call it "inflating a mouse into an elephant". Take it as a price. Also it can create a dictionary for you out of any text large enough.
